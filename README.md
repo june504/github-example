@@ -19,3 +19,7 @@ re change
 
 
 issue
+
+issue close test
+
+issue test
